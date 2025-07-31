@@ -9,7 +9,7 @@ namespace BlazorAuthentication.Components.Account.Pages;
 
 public partial class LoginPage
 {
-    public const string FixedEmail = "user@example.com";
+    public const string FixedEmail = "Admin@gmail.com";
     public const string FixedPassword = "password";
 
     private readonly LoginModel _loginModel = new()
